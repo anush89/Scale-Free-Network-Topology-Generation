@@ -1,0 +1,5 @@
+2
+7
+2
+net01.utdallas.edu 9012 10112 9198
+net02.utdallas.edu 9012 10112 9198
